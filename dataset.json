@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "acquisition",
+  "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
+  "config_name": "Top 50 Restaurant Category Dominators in Missouri, US",
+  "export_job_id": "1211512d-1de4-4e53-b2c7-664d70368fb6",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 907525,
+  "location_name": "Missouri",
+  "location_type": "state",
+  "repo_name": "top-50-restaurant-category-dominators-in-missouri-us-sample-907525",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/907525/beamstation_907525_restaurants-us-mo_SAMPLE_DIST.csv",
+  "sample_pct": 8.0,
+  "sample_records": 4,
+  "sample_sha256": "544da9d29864b9a024a3b557a03d828c0df2c9c06e2dd6cf0e8407a45df0a124",
+  "sample_size_bytes": 32326,
+  "total_records": 50,
+  "updated_at": "2026-04-08T01:57:16.819804+00:00"
+}
