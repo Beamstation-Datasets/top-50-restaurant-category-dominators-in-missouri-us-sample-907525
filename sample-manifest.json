@@ -1,12 +1,12 @@
 {
-  "export_job_id": "4b4480de-b846-484f-a00e-c57191ae89aa",
+  "export_job_id": "ed873de4-7e4f-49f7-ad34-7f2f9ebe6a1a",
   "id_short": 907525,
-  "published_at": "2026-04-23T07:15:02Z",
+  "published_at": "2026-04-29T19:43:50Z",
   "repo_name": "top-50-restaurant-category-dominators-in-missouri-us-sample-907525",
   "sample_asset_name": "beamstation_907525_restaurants-us-mo_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/907525/beamstation_907525_restaurants-us-mo_SAMPLE_DIST.csv",
-  "sample_records": 8,
-  "sample_sha256": "458510e098159149b9869ca1b039a44125ef5c69396530cbd8e24b6ebef483f2",
-  "sample_size_bytes": 47401,
-  "total_records": 83
+  "sample_records": 6,
+  "sample_sha256": "972e1399167bf07c6112118c58176c571641b29318fbed55f7f6ab3f87418184",
+  "sample_size_bytes": 41129,
+  "total_records": 61
 }
